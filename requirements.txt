@@ -1,7 +1,4 @@
 flask
-sentence-transformers
-faiss-cpu
-numpy
 groq
 PyMuPDF
 gunicorn
